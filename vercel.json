@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://cloud-music-api-theta-five.vercel.app/:match*"
+    }
+  ]
+}
